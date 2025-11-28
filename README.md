@@ -15,7 +15,7 @@ The repository includes:
 ## Quick Start
 
 ### Clone the repository
-git clone https://github.com/YOUR_USERNAME/hydrogen-turbine-blade-analysis.git
+git clone https://github.com/1225zisu-lab/hydrogen-turbine-blade-analysis.git
 cd hydrogen-turbine-blade-analysis
 
 ## Python Geometry Tools
